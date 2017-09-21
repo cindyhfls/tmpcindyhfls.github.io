@@ -1,7 +1,26 @@
-### Welcome to Jiaxin (Cindy)'s homepage!
+> We're living the future so
+> the present is our past.
+
+## Welcome to Jiaxin (Cindy)'s homepage!
+
+I think you should use an
+`<addr>` element here instead.
+
+`<what?!>`
+
+The guide to the Markdown syntax is here:
+https://guides.github.com/features/mastering-markdown/
+
+Here is my [CV]():
 
 
-## Welcome to GitHub Pages
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/cindyhfls/cindyhfls.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
