@@ -1,7 +1,7 @@
 > We're living the future so
 > the present is our past.
 
-## Welcome to Jiaxin (Cindy)'s homepage!:hear_no_evil:
+## Welcome to Jiaxin (Cindy)'s homepage!:see_no_evil:
 
 
 
@@ -12,10 +12,6 @@ Here is my [CV](https://docs.google.com/document/d/1cOueK2AO9aqOLoGnkx7tSO7c2DGa
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
-
-
-
-
 
 
 
