@@ -1,20 +1,17 @@
 > We're living the future so
 > the present is our past.
 
-## Welcome to Jiaxin (Cindy)'s homepage!
-
-I think you should use an
-`<addr>` element here instead.
-
-`<what?!>`
-
-The guide to the Markdown syntax is here:
-https://guides.github.com/features/mastering-markdown/
-
-Here is my [CV]():
+## Welcome to Jiaxin (Cindy)'s homepage!:hear_no_evil:
 
 
 
+Here is my [CV](https://docs.google.com/document/d/1cOueK2AO9aqOLoGnkx7tSO7c2DGaEOiqvpCcsuSIhfk/edit?usp=sharing):
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 
 
