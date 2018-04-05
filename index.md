@@ -5,7 +5,7 @@ title: Jiaxin Tu (Cindy)
 
 ## Welcome to Jiaxin (Cindy)'s homepage!
 
-I am a research technician at the Hayden Lab, Center for Magnetic Resonance Research, Department of Neuroscience, at the University of Minnesota. 
+I am a research technician at the Hayden Lab, Center for Magnetic Resonance Research, Department of Neuroscience, University of Minnesota. 
 
 I am interested at the process of learning and decision-making at behavioural and neuronal level in animals and humans.
 
