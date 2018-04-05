@@ -4,6 +4,9 @@ title: Jiaxin Tu (Cindy)
 
 ## Welcome to Jiaxin (Cindy)'s homepage!
 
-I am a research technician at the Hayden Lab at the University of Minnesota. My interest is to look at the process of learning and decision-making at behavioural and neuronal level in animals and humans.
+I am a research technician at the Hayden Lab at the University of Minnesota. 
 
-Here's a link to my resume [link]
+My interest is to look at the process of learning and decision-making at behavioural and neuronal level in animals and humans.
+
+Here is my [resume](https://docs.google.com/document/d/1cOueK2AO9aqOLoGnkx7tSO7c2DGaEOiqvpCcsuSIhfk/edit?usp=sharing):
+
