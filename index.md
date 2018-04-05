@@ -1,57 +1,9 @@
 ---
-layout: post
 title: Jiaxin Tu (Cindy)
 ---
 
-> We're living the future so
-> the present is our past.
+## Welcome to Jiaxin (Cindy)'s homepage!
 
-## Welcome to Jiaxin (Cindy)'s homepage!:see_no_evil:
+I am a research technician at the Hayden Lab at the University of Minnesota. My interest is to look at the process of learning and decision-making at behavioural and neuronal level in animals and humans.
 
-
-
-Here is my [CV](https://docs.google.com/document/d/1cOueK2AO9aqOLoGnkx7tSO7c2DGaEOiqvpCcsuSIhfk/edit?usp=sharing):
-
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-
-
-You can use the [editor on GitHub](https://github.com/cindyhfls/cindyhfls.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cindyhfls/cindyhfls.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here's a link to my resume [link]
