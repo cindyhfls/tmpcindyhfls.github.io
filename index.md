@@ -1,3 +1,8 @@
+---
+layout: post
+title: Jiaxin Tu (Cindy)
+---
+
 > We're living the future so
 > the present is our past.
 
