@@ -9,7 +9,7 @@ I am a PhD student in Neuroscience at Washington University in St Louis, St Loui
 
 I have been studying brain organization and how brain gives rise to cognition in humans and animals for 7+ years using Machine Learning and data science techniques.
 
-Here is my [CV](https://github.com/cindyhfls/cindyhfls.github.io/blob/master/CV/CV.pdf)):
+Here is my [CV](https://github.com/cindyhfls/cindyhfls.github.io/blob/master/CV/CV.pdf):
 
 Here is my [Google Scholar page](https://scholar.google.com/citations?user=n0eCT9IAAAAJ&hl=en&oi=ao)
 
